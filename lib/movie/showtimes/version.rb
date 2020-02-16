@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 module Movie
   module Showtimes
     VERSION = "0.1.0"
